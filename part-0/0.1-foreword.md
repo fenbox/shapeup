@@ -1,0 +1,27 @@
+# Foreword by Jason Fried
+
+The way a team works has an enormous influence on what it can do. The process, the methods, the practices, the approach, the discipline, the trust, the communication style, the pace. The way—the how—is foundational and fundamental.
+
+You’ll often hear people say “execution is everything,” but that’s not quite right. In fact, it’s often quite wrong.
+
+When it comes to project work, and specifically software development, executing something the wrong way can destroy morale, grind teams down, erode trust, crunch gears, and wreck the machinery of long-term progress. So yeah, it’s “done,” but at what cost? By doing, what have we done to ourselves? Do we really have to do that again, over and over month after month, year after year?
+
+How many projects have you been a part of that you’d want to do over? How many projects have gone long, piled up at the end, and burned people out? How many projects were essentially collections of unreasonable expectations? How many projects turned teams against each other, frustrated everyone from builder to stakeholder, and ultimately would have been better off dying than delivering?
+
+Sometimes execution is everything—everything that’s wrong. So what does executing right look like?
+
+Over the last few years, there’s been a heightened curiosity about how we work at Basecamp. People often ask us how we get so much done so quickly at such a high level of quality with such a small team. And how we keep our teams together for years and years.
+
+For one, we’re not into waterfall or agile or scrum. For two, we don’t line walls with Post-it notes. For three, we don’t do daily stand ups, design sprints, development sprints, or anything remotely tied to a metaphor that includes being tired and worn out at the end. No backlogs, no Kanban, no velocity tracking, none of that.
+
+We have an entirely different approach. One developed in isolation over nearly 15 years of constant trial and error, taking note, iterating, honing in, and polishing up. We’ve shaped our own way.
+
+Blog posts, workshops, and occasional conference talks have provided glimpses of our own unique process, but we’ve never laid it bare for all to see. This book does just that.
+
+Now that our process is fully formed, documented, and ready to go, we’re here to share it with all those curious enough to listen to a new way of doing things. Explorers, pioneers, those who don’t care what everyone else is doing. Those who want to work better than the rest.
+
+Don’t think of this as a book. Think of it as a flashlight. You and your team have fumbled around in the dark long enough. Now you’ve got something bright and powerful to help you find a new way.
+
+We hope you find it interesting, enlightening, and, most of all, helpful.
+
+Thanks for reading.

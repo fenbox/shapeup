@@ -1,0 +1,9 @@
+# Acknowledgements
+
+Jason Fried and David Heinemeier Hansson, Basecamp’s founders, planted many of the seeds for this book. It is informed by their values, Basecamp’s culture, and fifteen years of collaborative trial-and-error.
+
+Bob Moesta and Chris Spiek made pivotal contributions. This book wouldn’t have come together without their help.
+
+Yaneer Bar-Yam’s lectures at the New England Complex Systems Institute helped me structure the method.
+
+The expert designers and programmers at Basecamp tried, tested, and improved these techniques over the years to ship real projects. Their efforts make this a book of practice, not theory.
