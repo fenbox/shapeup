@@ -1,8 +1,14 @@
 # Shape Up 塑造（中文版）
 
-37signals 的 [Shape Up](https://basecamp.com/shapeup) 迟迟没有中文版，因此用 AI 翻译了一个版本。
+![from shapeless to shaped](/assets/cover_summary.jpg)
 
-书籍目录：
+停止围着圈子跑，开始做有意义的工作。
+
+> 原名：[Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)  
+> 作者：Ryan Singer  
+> 版本：v1.8, 2019 edition
+
+**翻译目录：**
 
 - [Jason Fried 的前言](zh/0.1-foreword.md)
 - [致谢](zh/0.2-acknowledgements.md)
@@ -32,4 +38,4 @@
   - [术语表](zh/4.5-appendix-06.md)
   - [作者简介](zh/4.6-appendix-07.md)
 
-内容版权归 37signals 所有。如果你有任何建议或意见，欢迎提交 Pull Request 或创建 Issue。
+内容版权归原作者所有。如果你有任何建议或意见，欢迎提交 Pull Request 或创建 Issue。
