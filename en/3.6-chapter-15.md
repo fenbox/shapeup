@@ -16,6 +16,6 @@ Remember, the thing you just shipped was a six-week `bet`. If this part of the p
 
 ## Feedback needs to be shaped
 
-Here we come full circle. The raw ideas that just came in from customer feedback aren’t actionable yet. They need to be shaped. They are the raw inputs that we talked about in step one of the shaping process: [Set Boundaries](https://basecamp.com/shapeup/1.2-chapter-03).
+Here we come full circle. The raw ideas that just came in from customer feedback aren’t actionable yet. They need to be shaped. They are the raw inputs that we talked about in step one of the shaping process: [Set Boundaries](1.2-chapter-03).
 
 If a request is truly important, you can make it your top priority on the shaping track of the next cycle. Bet on something else for the teams to build and use that time to properly shape the new idea. Then, when the six weeks are over, you can make the case at the betting table and schedule the shaped version of the project for the greatest chance of success.
